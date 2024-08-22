@@ -1,0 +1,2 @@
+letter = 'a'
+puts (letter)

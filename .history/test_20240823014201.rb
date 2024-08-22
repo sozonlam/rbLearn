@@ -1,0 +1,5 @@
+char = 'a'
+puts (char.ord) 
+
+a = 97
+puts (a.chr)

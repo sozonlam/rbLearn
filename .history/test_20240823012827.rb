@@ -1,0 +1,2 @@
+letter = 'fffa'
+puts (letter)
